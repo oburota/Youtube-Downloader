@@ -15,6 +15,7 @@ class YouTubeDownloaderGUI:
         self.root.title("YouTube Downloader")
         self.root.geometry("600x650")
         self.root.resizable(False, False)
+        self.root.iconbitmap('assets\\yt_icon.ico')
 
         # Set appearance mode and color theme
         ctk.set_appearance_mode("dark")
