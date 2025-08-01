@@ -1,7 +1,7 @@
 # Youtube-Downloader
 # Probably the best ads-free one on the internet😜
 
-a nice working youtube downloader
+A nice working youtube downloader
 I am making this for those that don't like the ads that come wth the conventional youtube downloaders and the price tags on the ads free ones.
 Your inputs will be highly appreciated. Thank you
 
